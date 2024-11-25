@@ -1,4 +1,5 @@
-## Hi there 👋
+## 어떤 환경이든 성장에 좋은 재료로 소화시키며 창의적이고 효율적인 솔루션을 만들어내는 개발자 양세진 입니다.
+ 👋
 
 <!--
 **SJ0503/SJ0503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
